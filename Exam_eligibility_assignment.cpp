@@ -18,4 +18,5 @@ if(attendance>=75 &&average_marks >=40)
 { printf("your are eligible for final exam.\n");}else 
 {printf("you are not eligible for your final exam.\n");} 
 return 0; 
+
 }
